@@ -36,7 +36,7 @@ Hay predominio de acordes mayores, lo que nos podíamos esperar, dado que en el 
 
  <image src="https://github.com/yporquenoahora/EDA/assets/1010236/71c1c0c4-c8a3-429d-b17c-71db78e12f94"/>
 
- <h1>¿Qué es esto de "adult standards", porcierto?</h1>
+ <h1>¿Qué es esto de "adult standards", por cierto?</h1>
  <p>Nada que ver con música para momentos recreativos, me temo. Resulta que se
 refiere a música para nostálgicos, Nat King Cole o Frank Sinatra estarían en esta
 categoría</p>
