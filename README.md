@@ -6,13 +6,12 @@ Puedes responderte a esta misma pregunta , está en tu mano sólo necesitas sust
 
  <p>Spotify tiene 406 millones de usuarios activos mensuales </p>
       <p>El 30% están en Europa ...</p>
-      <a href="https://es.statista.com/estadisticas/1118343/distribucion-de-usuarios-activos-mensuales-de-spotify-por-region/">Este es el reparto</a>
-      ![url-to-image](imgs/usuarios_spotify.png)
-      [[imgs/usuarios_spotify.png]]
+      <a href="https://es.statista.com/estadisticas/1118343/distribucion-de-usuarios-activos-mensuales-de-spotify-por-region/">Este es el reparto</a>     
+      ![usuarios_spotify](https://github.com/yporquenoahora/EDA/assets/1010236/5ab3bdbc-79b0-4dc1-a37b-8fb4904e2a49)
       <image src="./imgs/usuarios_spotify.png">
       <p>Spotify tiene una API a través de la cual podemos acceder a diferentes características de cada canción</p>
       <p>No sólo nos da información sobre título, autores o género, también podemos acceder a parámetros como el tipo de acorde que predomina en la canción o las secciones que la conforman</p>
-      <img src="./imgs/tabla.png"/>
+      <img src="./imgs/tabla.png"/>![tabla](https://github.com/yporquenoahora/EDA/assets/1010236/e1e1d776-3d8d-474a-b688-7f48cf15757c)
       <h1>Acordes mayores y menores</h1>
       <p>Podemos saber, por ejemplo, si una canción tiene predominio de acordes mayores</p>
       <p>Los acordes mayores transmiten optimismo, los menores, sin embargo, transmiten melancolía o tristeza</p>
