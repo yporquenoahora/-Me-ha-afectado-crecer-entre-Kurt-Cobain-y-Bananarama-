@@ -9,10 +9,10 @@ Puedes responderte a esta misma pregunta , está en tu mano sólo necesitas sust
       <a href="https://es.statista.com/estadisticas/1118343/distribucion-de-usuarios-activos-mensuales-de-spotify-por-region/">Este es el reparto</a>
       ![url-to-image](imgs/usuarios_spotify.png)
       [[imgs/usuarios_spotify.png]]
-      <image src="imgs/usuarios_spotify.png">
+      <image src="./imgs/usuarios_spotify.png">
       <p>Spotify tiene una API a través de la cual podemos acceder a diferentes características de cada canción</p>
       <p>No sólo nos da información sobre título, autores o género, también podemos acceder a parámetros como el tipo de acorde que predomina en la canción o las secciones que la conforman</p>
-      <img src="imgs/tabla.png"/>
+      <img src="./imgs/tabla.png"/>
       <h1>Acordes mayores y menores</h1>
       <p>Podemos saber, por ejemplo, si una canción tiene predominio de acordes mayores</p>
       <p>Los acordes mayores transmiten optimismo, los menores, sin embargo, transmiten melancolía o tristeza</p>
