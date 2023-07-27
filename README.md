@@ -49,9 +49,7 @@ escuchado ( nada emo para mi sorpresa)</p>
 
  <image src="https://github.com/yporquenoahora/EDA/assets/1010236/2be9854f-cd89-46bf-902d-82b0f9b03591"/>
  <p>Aunque sí, parece que hay más acordes menores que en la lista maintream</p>
-
-
- <image src="[imgs/mis_acordes.png](https://github.com/yporquenoahora/EDA/assets/1010236/a273b82f-ec24-4d27-a4be-42364f18313a)"/>
+ <image src="https://github.com/yporquenoahora/EDA/assets/1010236/a273b82f-ec24-4d27-a4be-42364f18313a"/>
  <p>¿Pero desgranando un poco también?</p>
 
  <image src="https://github.com/yporquenoahora/EDA/assets/1010236/c3c8ef68-8232-4342-9160-56f24ff01ff5"/>
